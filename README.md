@@ -7,5 +7,5 @@
 * [動作環境について](https://github.com/t-yoshi/RadiRuKo-Plugin/wiki/Environment) [配布元](http://t-yoshi.github.io/RadiRuKo-Plugin/)
 * バージョン 9.0(2023-02-19)  [更新履歴](https://github.com/t-yoshi/RadiRuKo-Plugin/wiki/ChangeLog)
 
-lmscommunity/lyrionmusicserver:latest向けにmaxTargetを9.*に変更しただけ  
+lmscommunity/lyrionmusicserver:latest向けにmaxTargetを9.*に変更  
 プレミアムもエリアフリーは確認済み。タイムフリーは未検証。
