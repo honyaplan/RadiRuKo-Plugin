@@ -8,4 +8,3 @@
 * バージョン 9.0(2023-02-19)  [更新履歴](https://github.com/t-yoshi/RadiRuKo-Plugin/wiki/ChangeLog)
 
 lmscommunity/lyrionmusicserver:latest向けにmaxTargetを9.*に変更  
-プレミアムもエリアフリーは確認済み。タイムフリーは未検証。
